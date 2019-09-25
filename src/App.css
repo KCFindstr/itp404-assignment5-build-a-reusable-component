@@ -1,0 +1,18 @@
+.important-node {
+  padding: 5px;
+  color: red;
+}
+
+.important-node:hover {
+  text-shadow: 0px 0px 3px orangered;
+  cursor: pointer;
+}
+
+.important-icon {
+  text-align: center;
+  display: inline-block;
+  font-weight: 1000;
+  width: 8px;
+  margin-right: 5px;
+  font-size: 20px;
+}
